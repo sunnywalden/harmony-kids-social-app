@@ -1,0 +1,11 @@
+{
+  "name": "harmony-kids-social-app",
+  "version": "1.0.0",
+  "description": "智能社区服务平台应用，包含智能门禁、居民互动平台和物业服务功能。",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
